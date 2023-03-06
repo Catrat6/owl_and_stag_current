@@ -14,4 +14,7 @@
 <h3 align="center">
   This is a website built for a company named "Owl and Stag", They are a production company based in North Philly and they specialize in advertising.  I was contracted to build this website based on a simple template they had already purchased ... It uses jQuery and Bootstrap along with custom CSS to create a sleek modern looking website.  They wanted me to heavily modify it as well as add and remove a bunch of stuff.  If you would like to see it live in progress as I work on it go <a href="https://www.owlandstag.online">Here</a>
 </h3>
+<h2 align="center">
+  I would also like to add that none of the videos for the website are included in this file do to githubs upload limits.
+</h2>
 
