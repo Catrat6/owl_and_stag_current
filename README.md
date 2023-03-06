@@ -1,1 +1,1 @@
-<h1>Owl and Stag Website</h1>
+<h1 style="color: red;">Owl and Stag Website</h1>
